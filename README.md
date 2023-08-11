@@ -33,7 +33,7 @@ I welcome contributions to this repository! If you have ideas, improvements, or 
 
 ## Contact
 
-If you have any questions or would like to discuss anything related to this repository, you can reach me at adityakankriya480@gmail.com.
+If you have any questions or would like to discuss anything related to this repository, you can reach me at shrutikaj98@gmail.com.
 
 Happy exploring the world of modern cryptology!
 
